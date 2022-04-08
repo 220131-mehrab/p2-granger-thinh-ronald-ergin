@@ -48,7 +48,6 @@ $ cd C:/Users/user/Employee-Database
 $ git init
 $ git clone https://github.com/220131-mehrab/p2-granger-thinh-ronald-ergin-Employee-Management-App--P2
 $ cd C:/Users/user/Employee-Databse/p2-granger-thinh-ronald-ergin-Employee-Management-App--P2/AngularSpringBoot
-$ gradlew build
 $ docker-compose build
 $ docker-compose up
 $ cd C:/Users/user/Employee-Database/p2-granger-thinh-ronald-ergin-Employee-Management-App--P2/AngularSpringBoot/angular-frontend
@@ -63,7 +62,6 @@ $ cd home/user/Employee-Database
 $ git init
 $ git clone https://github.com/220131-mehrab/p2-granger-thinh-ronald-ergin-Employee-Management-App--P2/
 $ cd home/user/Employee-Databse/p2-granger-thinh-ronald-ergin-Employee-Management-App--P2/AngularSpringBoot
-$ gradle build
 $ docker-compose build
 $ docker-compose up
 $ cd home/user/Employee-Database/p2-granger-thinh-ronald-ergin-Employee-Management-App--P2/AngularSpringBoot/angular-frontend
